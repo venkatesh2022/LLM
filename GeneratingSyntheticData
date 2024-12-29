@@ -1,0 +1,1 @@
+This project contains the task of Synthetic Data Generation, we require a dataset that can serve as input for training a Generative Adversarial Network (GAN) model. The GAN will be trained to produce new data samples that closely resemble the original dataset while preserving the relationships and patterns among its features.
